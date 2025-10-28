@@ -1,0 +1,53 @@
+# depslib dependency file v1.0
+1623862486 source:d:\labirinto3d\labirinto3d.c
+	"labirinto3D.h"
+	<stdio.h>
+
+1623862324 d:\labirinto3d\labirinto3d.h
+	<gl/gl.h>
+	<gl/glu.h>
+
+1623843535 source:d:\labirinto3d\main.c
+	<stdio.h>
+	"labirinto3D.h"
+	<windows.h>
+
+1623862486 source:d:\andre\facom ufu\video aulas\video aula labirinto 3d\v1\labirinto3d\labirinto3d.c
+	"labirinto3D.h"
+	<stdio.h>
+
+1623862324 d:\andre\facom ufu\video aulas\video aula labirinto 3d\v1\labirinto3d\labirinto3d.h
+	<gl/gl.h>
+	<gl/glu.h>
+
+1623843535 source:d:\andre\facom ufu\video aulas\video aula labirinto 3d\v1\labirinto3d\main.c
+	<stdio.h>
+	"labirinto3D.h"
+	<windows.h>
+
+1623862486 source:c:\backes\_temp\video aula labirinto 3d\v1\labirinto3d\labirinto3d.c
+	"labirinto3D.h"
+	<stdio.h>
+
+1623862324 c:\backes\_temp\video aula labirinto 3d\v1\labirinto3d\labirinto3d.h
+	<gl/gl.h>
+	<gl/glu.h>
+
+1623843535 source:c:\backes\_temp\video aula labirinto 3d\v1\labirinto3d\main.c
+	<stdio.h>
+	"labirinto3D.h"
+	<windows.h>
+
+1623843535 source:d:\facomufu\video aulas\video aula labirinto 3d\v1\labirinto3d\main.c
+	<stdio.h>
+	"labirinto3D.h"
+	<windows.h>
+
+1623862324 d:\facomufu\video aulas\video aula labirinto 3d\v1\labirinto3d\labirinto3d.h
+	<gl/gl.h>
+	<gl/glu.h>
+
+1627472137 source:d:\facomufu\video aulas\video aula labirinto 3d\v1\labirinto3d\labirinto3d.c
+	"labirinto3D.h"
+	<stdio.h>
+

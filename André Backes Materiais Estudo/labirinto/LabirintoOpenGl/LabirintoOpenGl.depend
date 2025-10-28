@@ -1,0 +1,60 @@
+# depslib dependency file v1.0
+1619975647 source:e:\andre\labirintoopengl\grafo.c
+	<stdio.h>
+	<stdlib.h>
+	"Grafo.h"
+
+1619975138 e:\andre\labirintoopengl\grafo.h
+
+1619975309 source:e:\andre\labirintoopengl\main.c
+	<windows.h>
+	<time.h>
+	"Labirinto.h"
+
+1619975253 e:\andre\labirintoopengl\labirinto.h
+	<gl/gl.h>
+
+1619975643 source:e:\andre\labirintoopengl\labirinto.c
+	"Labirinto.h"
+	"Grafo.h"
+	<math.h>
+	<stdlib.h>
+	<stdio.h>
+
+1610070286 source:e:\andre\levar udia\códigos\labirintoopengl\grafo.c
+	<stdio.h>
+	<stdlib.h>
+	"Grafo.h"
+
+1610047381 e:\andre\levar udia\códigos\labirintoopengl\grafo.h
+
+1610070082 source:e:\andre\levar udia\códigos\labirintoopengl\labirinto.c
+	"Labirinto.h"
+	"Grafo.h"
+	<math.h>
+	<stdlib.h>
+	<stdio.h>
+
+1609527216 e:\andre\levar udia\códigos\labirintoopengl\labirinto.h
+	<gl/gl.h>
+
+1610069467 source:e:\andre\levar udia\códigos\labirintoopengl\main.c
+	<windows.h>
+	<time.h>
+	"Labirinto.h"
+
+1610069467 source:d:\andre\levar ufu\videoaulas\labirintoopengl\main.c
+	<windows.h>
+	<time.h>
+	"Labirinto.h"
+
+1609527216 d:\andre\levar ufu\videoaulas\labirintoopengl\labirinto.h
+	<gl/gl.h>
+
+1611233431 source:d:\andre\levar ufu\videoaulas\labirintoopengl\grafo.c
+	<stdio.h>
+	<stdlib.h>
+	"Grafo.h"
+
+1610047381 d:\andre\levar ufu\videoaulas\labirintoopengl\grafo.h
+

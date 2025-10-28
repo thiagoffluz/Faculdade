@@ -1,0 +1,166 @@
+# depslib dependency file v1.0
+1548079874 source:d:\pacman\main.c
+	"SOIL.h"
+	<windows.h>
+	<gl/gl.h>
+	<stdio.h>
+	<time.h>
+	"pacman.h"
+
+1215465208 d:\pacman\soil.h
+
+1547222593 source:d:\andre\pacman\main.c
+	"SOIL.h"
+	<windows.h>
+	<gl/gl.h>
+	<stdio.h>
+	"mapa.txt"
+
+1215465208 d:\andre\pacman\soil.h
+
+1547219672 d:\andre\pacman\mapa.txt
+
+1547637083 d:\pacman\mapa.txt
+
+1547550409 d:\pacman\utils.h
+	"SOIL.h"
+	<windows.h>
+	<gl/gl.h>
+	<stdio.h>
+
+1547550687 source:d:\pacman\utils.c
+	"utils.h"
+
+1548079156 source:d:\pacman\pacman.c
+	"pacman.h"
+
+1548079162 d:\pacman\pacman.h
+	<stdio.h>
+	<math.h>
+	<stdlib.h>
+	<windows.h>
+	<gl/gl.h>
+	"SOIL.h"
+
+1548088687 source:d:\andre\levar ufu\pacman\main.c
+	"SOIL.h"
+	<windows.h>
+	<gl/gl.h>
+	<stdio.h>
+	<time.h>
+	"pacman.h"
+
+1215465208 d:\andre\levar ufu\pacman\soil.h
+
+1547546809 d:\andre\levar ufu\pacman\utils.h
+	"SOIL.h"
+	<windows.h>
+	<gl/gl.h>
+	<stdio.h>
+
+1547547087 source:d:\andre\levar ufu\pacman\utils.c
+	"utils.h"
+
+1547633483 d:\andre\levar ufu\pacman\mapa.txt
+
+1548171863 source:d:\andre\levar ufu\pacman\pacman.c
+	<stdio.h>
+	<math.h>
+	<stdlib.h>
+	<windows.h>
+	<gl/gl.h>
+	"SOIL.h"
+	"pacman.h"
+
+1548170362 d:\andre\levar ufu\pacman\pacman.h
+
+1548334521 source:d:\facomufu\video aulas\video aula pacman\pacman\main.c
+	"SOIL.h"
+	<windows.h>
+	<gl/gl.h>
+	<stdio.h>
+	<time.h>
+	"pacman.h"
+
+1215465208 d:\facomufu\video aulas\video aula pacman\pacman\soil.h
+
+1548173962 d:\facomufu\video aulas\video aula pacman\pacman\pacman.h
+
+1548334616 source:d:\facomufu\video aulas\video aula pacman\pacman\pacman.c
+	<stdio.h>
+	<math.h>
+	<stdlib.h>
+	<windows.h>
+	<gl/gl.h>
+	"SOIL.h"
+	"pacman.h"
+
+1548331016 source:d:\andre\facom ufu\video aulas\videoaulasprontas\video aula pacman\pacman\pacman.c
+	<stdio.h>
+	<math.h>
+	<stdlib.h>
+	<windows.h>
+	<gl/gl.h>
+	"SOIL.h"
+	"pacman.h"
+
+1215461608 d:\andre\facom ufu\video aulas\videoaulasprontas\video aula pacman\pacman\soil.h
+
+1548170362 d:\andre\facom ufu\video aulas\videoaulasprontas\video aula pacman\pacman\pacman.h
+
+1627337082 source:d:\labirinto3d\main.c
+	<stdio.h>
+	"labirinto3D.h"
+	<time.h>
+	<windows.h>
+	<gl/gl.h>
+
+1627318540 d:\labirinto3d\labirinto3d.h
+	<gl/gl.h>
+	<gl/glu.h>
+
+1624381664 source:d:\labirinto3d\grafo.c
+	<stdio.h>
+	<stdlib.h>
+	"Grafo.h"
+
+1624381621 d:\labirinto3d\grafo.h
+
+1627337377 source:d:\labirinto3d\labirinto3d.c
+	"labirinto3D.h"
+	"Grafo.h"
+	"SOIL.h"
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1215461608 d:\labirinto3d\soil.h
+
+1624381664 source:d:\facomufu\video aulas\video aula labirinto 3d\v4\labirinto3d\grafo.c
+	<stdio.h>
+	<stdlib.h>
+	"Grafo.h"
+
+1624381621 d:\facomufu\video aulas\video aula labirinto 3d\v4\labirinto3d\grafo.h
+
+1627413793 source:d:\facomufu\video aulas\video aula labirinto 3d\v4\labirinto3d\labirinto3d.c
+	"labirinto3D.h"
+	"Grafo.h"
+	"SOIL.h"
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1627318540 d:\facomufu\video aulas\video aula labirinto 3d\v4\labirinto3d\labirinto3d.h
+	<gl/gl.h>
+	<gl/glu.h>
+
+1215461608 d:\facomufu\video aulas\video aula labirinto 3d\v4\labirinto3d\soil.h
+
+1627337082 source:d:\facomufu\video aulas\video aula labirinto 3d\v4\labirinto3d\main.c
+	<stdio.h>
+	"labirinto3D.h"
+	<time.h>
+	<windows.h>
+	<gl/gl.h>
+

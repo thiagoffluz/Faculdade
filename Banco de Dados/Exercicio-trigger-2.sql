@@ -1,0 +1,1 @@
+INSERT INTO public.saque VALUES (3, 1, 1.00);
